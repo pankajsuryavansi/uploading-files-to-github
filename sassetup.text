@@ -3,7 +3,7 @@
 3: git install
 4: Checked if git is installed using cmd type git
 5: saas path
-7: sass path link and in cmd type git clone https://github.com/pratik24mac/sassSetup
+7: sass path link and in cmd type git clone https://github.com/pratik24mac/sassSetup/ https://github.com/pankajsuryavansi
 8: cmd cd sassSetup and enter
 9: cmd npm install and enter for package install
 10: cmd sassSetup  >gulp enter
